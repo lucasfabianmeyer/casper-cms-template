@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "Patrick Meyer"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -11,9 +11,9 @@ canonifyurls = true
 
 [params]
   description = "this is my description"
-  cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
+  cover = "images/WhatsApp Image 2019-05-12 at 12.18.06.jpeg"
+  author = "Patrick MEYER"
+  authorlocation = "Basel, Schweiz"
   authorwebsite = "http://vjeantet.fr"
   bio= "my bio"
   logo = "images/logo.png"
