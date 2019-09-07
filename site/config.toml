@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "this is my description"
-  cover = "images/WhatsApp Image 2019-05-12 at 12.18.06.jpeg"
+  cover = "images/whatsapp image 2019-05-12 at 12.18.06.jpeg"
   author = "Patrick MEYER"
   authorlocation = "Basel, Schweiz"
   authorwebsite = "http://vjeantet.fr"
